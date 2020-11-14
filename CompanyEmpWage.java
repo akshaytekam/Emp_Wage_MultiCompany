@@ -11,7 +11,7 @@ public final int numOfWorkingDays;
 public final int maxHoursPerMonth;
 public int totalEmpWage;
 
-public CompanyEmpWage(String company, int empRatePerHour, int numOfWorking Days, int maxHoursPerMonth)
+public CompanyEmpWage(String company, int empRatePerHour, int numOfWorkingDays, int maxHoursPerMonth)
 {
 
 this.company = company;
